@@ -89,13 +89,13 @@ h1,h2,h3,h4,h5,h6,label,p{
 	font-family: 'PT Sans Narrow', sans-serif;
 	font-size:3.5em;
 }
-.banner-matter p{
-	color:#8e8e8e;
-	font-size: 1.1em;
-	line-height: 1.8em;
-	width: 80%;
-	padding: 0.5em 0 0;
-}
+	.banner-matter p {
+		color: #4D4D4D;
+		font-size: 1.1em;
+		line-height: 1.8em;
+		width: 80%;
+		padding: 0.5em 0 0;
+	}
 .smile {
     float: right;
     margin-top: 5px;
@@ -104,11 +104,11 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 
 /*----*/
-.subtitle{
-	float:left;
-	color:#a2a3a3;
+.subtitle {
+	float: left;
+	color: #4D4D4D;
 	font-family: 'PT Sans Narrow', sans-serif;
-	font-size:40px;
+	font-size: 40px;
 }
 
 .service-grid h5{
@@ -124,12 +124,12 @@ h1,h2,h3,h4,h5,h6,label,p{
 .service-grid img{
 	margin:0 auto;	
  }
-.service-grid p{
-	color:#8e8e8e;
+.service-grid p {
+	color: #4D4D4D ;
 	font-size:1.1em;
-	line-height:1.8em;
+	line-height: 1.8em;
 	width: 83%;
-	margin:0 auto;
+	margin: 0 auto;
 }
 .breakline{
 	border-top: 2px solid #E0E0E0;
@@ -141,8 +141,8 @@ h1,h2,h3,h4,h5,h6,label,p{
 
 	padding: 40px 0px;
 }
-#latest p{
-	color:#8E8E8E;
+#latest p {
+	color: #4D4D4D;
 }
 #latest .upper {
 	position: relative;
